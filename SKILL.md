@@ -1,5 +1,5 @@
 ---
-name: development-protocol
+name: dev-protocol
 description: >-
   Development protocol gate. Before editing any file, present a plan and wait for
   approval; change one issue at a time; never claim completion without fresh
@@ -8,7 +8,7 @@ description: >-
   user says no plan needed. Plain questions that change no file need no loading.
 ---
 
-# 开发协议 · development-protocol
+# 开发协议 · dev-protocol
 
 把开发过程收敛成一条流水线：**先读依据 → 改前批准 → 改中守纪律 → 改后验证 → 全程留痕**。
 
